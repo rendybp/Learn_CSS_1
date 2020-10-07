@@ -1,0 +1,38 @@
+body {
+    background-image: url(../../img/tree.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: scroll;
+}
+
+.bgh{
+    background-color: green;
+}
+
+div{
+    background-color: lightblue;
+}
+.bgp{
+    background-color: yellow;
+}
+
+.bg{
+    background-image: url(../../img/paper.png);
+}
+
+.bgx{
+    background-image: url(../../img/paper.png);
+    background-repeat: repeat-x;
+}
+
+.bgy{
+    background-image: url(../../img/paper.png);
+    background-repeat: repeat-y;
+}
+
+.bgnr{
+    background-image: url(../../img/tree.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
